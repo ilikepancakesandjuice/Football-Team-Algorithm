@@ -247,4 +247,4 @@ def main():
 if __name__ == "__main__":
   main()
 
-print("Nabeel is the best player here.")
+print("Nabeel is the best player here. clearly.")
