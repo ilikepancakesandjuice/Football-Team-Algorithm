@@ -1,4 +1,4 @@
-entrypoint = "main.py"
+entrypoint = "run_script.py"
 modules = ["python-3.11"]
 
 [nix]
